@@ -1,0 +1,62 @@
+[
+    {
+        "class":"menuIcon",
+        "blackMenuIconUrl":"icons/navBar/menu-black.svg",
+        "whiteMenuIconUrl":"icons/navBar/menu-white.svg"
+    },
+    {
+        "class":"closeBtn",
+        "blackCloseIconUrl":"icons/navBar/close-menu-black.svg",
+        "whiteCloseIconUrl":"icons/navBar/close-menu-white.svg"
+    },
+    {
+        "title":"تعرفه‌ها"
+    },
+    {
+        "title":"اپلیکیشن"
+    },
+    {
+        "title":"سوالات متداول"
+    },
+    {
+        "title":"محصولات",
+        "moreMenuMobile":true,
+        "angleDownBlackUrl":"icons/navBar/angle-down-black.svg",
+        "angleDownWhiteUrl":"icons/navBar/angle-down-white.svg",
+        "moreMenuTitles":[
+            {
+                "title":"درگاه پرداخت اینترنتی"
+            },
+            {
+                "title":"عیان"
+            },
+            {
+                "title":"زرین‌لینک"
+            },
+            {
+                "title":"زرین‌کارت"
+            },
+            {
+                "title":"زرین‌پلاس"
+            },
+            {
+                "title":"استرداد وجه"
+            },
+            {
+                "title":"تسویه پیش از موعد"
+            },
+            {
+                "title":"تسهیم فردایی"
+            }
+        ]
+    },
+    {
+        "title":"تماس با ما"
+    },
+    {
+        "zarinpalBtn":true,
+        "titleBtn":"زرین‌پال من",
+        "arrowBlackUrl":"icons/navBar/arrow-left-black.svg",
+        "arrowWhiteUrl":"icons/navBar/arrow-left-white.svg"
+    }
+]
