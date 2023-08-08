@@ -1,0 +1,23 @@
+[
+    {
+        "side":"right",
+
+        "headTitleLine1":"بیش از ۱۳ سال",
+        "headTitleLine2":"انتخاب مطمئنِ کسب و کارهای آنلاین",
+
+        "descriptionTitle":"زرین‌پال، اولین پرداخت‌یار پیشگام کشور، با به‌کارگیری سبک و استانداردهای جدید در ارائه‌ی خدمات درگاه پرداخت اینترنتی، سرویس‌های متنوعی در حوزه‌ی پرداخت الکترونیک را برای کسب و کارها ارائه کرده است؛ با این هدف که در افزایش سهم تجارت الکترونیکی در تولید ناخالص ملی و کمک به رشد و توسعه‌ی کسب‌وکارها، نقش سازنده‌‌ای ایفا کند.",
+
+        "registerBtn":"ثبت‌نام",
+        "loginBtn":"ورود"
+    },
+    {
+        "side":"left",
+        "mobilesPic":"images/home.svg",
+        "alt":"عکس درگاه پرداخت"
+    },
+    {
+        "side":"arrow-bottom",
+        "arrowDownBlackUrl":"icons/navBar/angle-down-black.svg",
+        "arrowDownwhiteUrl":"icons/navBar/angle-down-white.svg"
+    }
+]
