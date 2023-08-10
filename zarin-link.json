@@ -1,0 +1,22 @@
+[
+    {
+        "side":"right",
+
+        "topTitle":"زرین‌لینک",
+
+        "headerTitle":"پرداخت در شبکه‌های اجتماعی",
+
+        "headeDescription":"زرین‌لینک با مدیریت فرآیند فروش به روشی هوشمندانه و سریع، باعث افزایش فروش محصولات و خدمات، از طریق شبکه‌های اجتماعی یا وب‌سایت می‌شود.",
+
+        "regBtn":"ساخت زرین‌لینک",
+
+        "moreBtn":"بیش‌تر بدانید",
+
+        "arrowBlackUrl":"icons/navBar/arrow-left-black.svg",
+
+        "arrowWhiteUrl":"icons/navBar/arrow-left-white.svg"
+    },
+    {
+        "side":"left"
+    }
+]

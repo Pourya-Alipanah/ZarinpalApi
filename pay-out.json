@@ -1,0 +1,22 @@
+[
+    {
+        "side":"right",
+
+        "topTitle":"تسهیم",
+
+        "headerTitle":"درگاه پرداخت اشتراکی",
+
+        "headeDescription":"تسهیم بهترین روش برای مدیریت مالی کسب‌ و کارهای شراکتی است که به واسطه‌ی آن، درآمد حاصل از فروش محصولات یا خدمات، در سهم‌های ثابت یا متغیر میان شرکای تجاری تقسیم شده و به صورت جداگانه به حساب هر شخص واریز می‌‌شود.",
+
+        "regBtn":"درخواست فعال‌سازی تسهیم",
+
+        "moreBtn":"بیش‌تر بدانید",
+
+        "arrowBlackUrl":"icons/navBar/arrow-left-black.svg",
+
+        "arrowWhiteUrl":"icons/navBar/arrow-left-white.svg"
+    },
+    {
+        "side":"left"
+    }
+]
