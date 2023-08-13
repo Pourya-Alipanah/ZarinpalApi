@@ -1,0 +1,104 @@
+[
+    {
+        "type":"fMenu",
+
+        "footerTitle":"محصولات",
+
+        "listTitles":[
+
+            {"title":"زرین‌لینک"},
+
+            {"title":"درگاه پرداخت اینترنتی"},
+
+            {"title":"زرین‌کارت"},
+
+            {"title":"عیان"},
+
+            {"title":"استرداد وجه"},
+
+            {"title":"تسویه پیش از موعد"},
+
+            {"title":"تسهیم فردایی"}
+        ]
+    },
+    {
+        "type":"fMenu",
+
+        "footerTitle":"آشنایی با زرین‌پال",
+
+        "listTitles":[
+            {"title":"تعرفه‌ها"},
+
+            {"title":"درباره ما"},
+
+            {"title":"سوالات متداول"},
+
+            {"title":"همکاری در فروش"}
+        ]
+    },
+    {
+        "type":"fMenu",
+
+        "footerTitle":"ارتباط‌ بیشتر",
+
+        "listTitles":[
+
+            {"title":"تماس با ما"},
+
+            {"title":"قوانین و مقررات"},
+
+            {"title":"حریم ‌خصوصی"}
+
+        ]
+    },
+    {
+        "type":"fMenu",
+
+        "footerTitle":"منابع",
+
+        "listTitles":[
+            {"title":"دریافت شماره شبا"},
+
+            {"title":"زرین‌بین"},
+
+            {"title":"توسعه‌دهندگان"},
+
+            {"title":"وبلاگ"}
+        ]
+    },
+    {
+        "type":"footerTitle",
+
+        "footerLogoTitle":"زرین‌پال در شبکه‌های اجتماعی:"
+    },
+    {
+        "type":"footerlogo",
+
+        "logoUrl":"icons/footer/instagram.svg"
+    },
+    {
+        "type":"footerlogo",
+
+        "logoUrl":"icons/footer/twitter.svg"
+    },
+    {
+        "type":"footerlogo",
+
+        "logoUrl":"icons/footer/telegram.svg"
+    },
+    {
+        "type":"footerlogo",
+
+        "logoUrl":"icons/footer/linkedin.svg"
+    },
+    {
+        "type":"footerlogo",
+
+        "logoUrl":"icons/footer/aparat.svg"
+    },
+    {
+        "type":"eNamad",
+
+        "eNamad":"images/footer/logosamandehi.png"
+    }
+]

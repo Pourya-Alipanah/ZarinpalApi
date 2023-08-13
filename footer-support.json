@@ -1,0 +1,24 @@
+[
+    {
+        "side":"right",
+
+        "title":"پشتیبانی  ۲۴ ساعته، ۷ روز هفته",
+
+        "titlePhoneNumPort":"پشتیبانی پذیرندگان :",
+
+        "phoneNumPort":"۴۱۲۳۹-۰۲۱",
+
+        "titlePhoneNumCust":"پشتیبانی خریداران :",
+
+        "phoneNumCust":"۴۵۶۲۸۰۰۰-۰۲۱ "
+    },
+    {
+        "side":"left",
+
+        "title":"درخواست پشتیبانی",
+
+        "arrowLeftBlack":"icons/navBar/arrow-left-black.svg",
+
+        "arrowLeftWhite":"icons/navBar/arrow-left-white.svg"
+    }
+]
